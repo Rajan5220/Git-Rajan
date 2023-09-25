@@ -1,2 +1,5 @@
 # Git-Rajan
-This Repository is my first Git hub Repository.
+**My Personal Infromation**<br>
+Name: Rajan Shah<br>
+Country: Nepal
+
